@@ -17,7 +17,7 @@
 
         <section class="main">
             <form id="formLogin">
-                <h1>Formulário Labz</h1>
+                <h1>Formulário Ajax</h1>
                 
                 <p>
                     <label for="username">Username</label>
