@@ -1,4 +1,4 @@
-<?php // require_once('./includes/connect.inc.php'); ?>
+<?php require_once('./includes/connect.inc.php'); ?>
 
 <!DOCTYPE html>
 <html lang="pt-BR">
